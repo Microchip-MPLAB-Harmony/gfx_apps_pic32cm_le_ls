@@ -1,0 +1,11 @@
+package:
+  format-version: "1.0.0"
+  name: "gfx_apps_pic32cm_le_ls"
+  version: "3.12.0"
+  type: "application"
+  status: "production"
+
+  dependencies:
+    - name: "gfx"
+      type: "package"
+      version: "3.12.0"

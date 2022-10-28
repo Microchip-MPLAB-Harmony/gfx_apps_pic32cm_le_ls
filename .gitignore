@@ -1,0 +1,15 @@
+*.log
+*.o
+*.map
+*.d
+**/nbproject/private
+**/nbproject/Makefile-*
+**/nbproject/Package-*
+**/*.X/.generated_files
+**/*.X/debug
+**/*.X/dist
+**/*.X/build
+**/*.IAR/Debug
+**/*.IAR/settings
+**/*.IAR/*.dep
+**/*.IAR/*.custom_argvars
