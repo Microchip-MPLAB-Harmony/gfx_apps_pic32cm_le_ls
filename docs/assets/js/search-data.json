@@ -1,0 +1,56 @@
+{"0": {
+    "doc": "Legato Quickstart",
+    "title": "Legato Quickstart",
+    "content": ". This demonstration provides a starting point for running the legato graphics library on the PIC32CM Lx MCUs . | MPLABX Configuration | Board Configuration | . | legato_qs_pic32cm_le00_cpro_oled.X | PIC32CM LE00 Curiosity Pro Evaluation Kit with the OLED Curiosity Extension Board | . ",
+    "url": "http://localhost:4000/gfx_apps_pic32cm_le_ls/apps/legato_quickstart/readme.html",
+    "relUrl": "/apps/legato_quickstart/readme.html"
+  },"1": {
+    "doc": "Example Applications",
+    "title": "Example Applications",
+    "content": "The following applications are provided to demonstrate both basic and advanced Graphics capabilities of the PIC32CZ CA Family. ",
+    "url": "http://localhost:4000/gfx_apps_pic32cm_le_ls/apps/readme.html",
+    "relUrl": "/apps/readme.html"
+  },"2": {
+    "doc": "Example Applications",
+    "title": "Legato Library Examples",
+    "content": ". | Legato Quickstart | . This demonstration provides a starting point for running the legato graphics library. | Legato OLED Showcase | . This demonstration showcases the different features of the OLED Curiosity Extension Board with Harmony 3 and the Legato Graphics Library. ",
+    "url": "http://localhost:4000/gfx_apps_pic32cm_le_ls/apps/readme.html#legato-library-examples",
+    "relUrl": "/apps/readme.html#legato-library-examples"
+  },"3": {
+    "doc": "Legato OLED Showcase",
+    "title": "Legato OLED Showcase",
+    "content": ". This demonstration showcases the different features of the OLED Curiosity Extension Board with Harmony 3 and the Legato Graphics Library. | MPLABX Configuration | Board Configuration | . | legato_sc_pic32cm_le00_cpro_oled.X | PIC32CM LE00 Curiosity Pro Evaluation Kit with the OLED Curiosity Extension Board | . ",
+    "url": "http://localhost:4000/gfx_apps_pic32cm_le_ls/apps/legato_oled_showcase/readme.html",
+    "relUrl": "/apps/legato_oled_showcase/readme.html"
+  },"4": {
+    "doc": "Release notes",
+    "title": " Microchip MPLAB® Harmony 3 Graphics application examples for PIC32CM LE LS Family",
+    "content": " ",
+    "url": "http://localhost:4000/gfx_apps_pic32cm_le_ls/release_notes.html#-microchip-mplab-harmony-3-graphics-application-examples-for-pic32cm-le-ls-family",
+    "relUrl": "/release_notes.html#-microchip-mplab-harmony-3-graphics-application-examples-for-pic32cm-le-ls-family"
+  },"5": {
+    "doc": "Release notes",
+    "title": "Harmony 3 Graphics application examples for PIC32CM LE LS Family v3.0.0",
+    "content": "Development kit and demo application support . Following table provides number of peripheral library examples available for different development kits. | Development Kits | MPLABx applications | . | PIC32CM LE00 Curiosity Pro Evaluation Kit | 2 | . ",
+    "url": "http://localhost:4000/gfx_apps_pic32cm_le_ls/release_notes.html#harmony-3-graphics-application-examples-for-pic32cm-le-ls-family-v300",
+    "relUrl": "/release_notes.html#harmony-3-graphics-application-examples-for-pic32cm-le-ls-family-v300"
+  },"6": {
+    "doc": "Release notes",
+    "title": "Release v3.0.0",
+    "content": "New Features . | Added Legato Quickstart for the PIC32CM LE00 Curiosity Pro Evaluation Kit with the OLED Curiosity Extension Board | Added Legato OLED Showcase for the PIC32CM LE00 Curiosity Pro Evaluation Kit with the OLED Curiosity Extension Board | . Known Issues . The current known issues are as follows: . Development Tools . | MPLAB® X IDE v6.05 or newer | MPLAB® X IDE plug-ins: . | MPLAB® Code Configurator (MCC) v5.3.0 | . | MPLAB® XC32 C/C++ Compiler v4.20 | . Dependent Components . | GFX v3.12.2 | . ",
+    "url": "http://localhost:4000/gfx_apps_pic32cm_le_ls/release_notes.html#release-v300",
+    "relUrl": "/release_notes.html#release-v300"
+  },"7": {
+    "doc": "Release notes",
+    "title": "Release notes",
+    "content": " ",
+    "url": "http://localhost:4000/gfx_apps_pic32cm_le_ls/release_notes.html",
+    "relUrl": "/release_notes.html"
+  },"8": {
+    "doc": "Harmony 3 Graphics PIC32CM LE LS Family Applications Package",
+    "title": "Harmony 3 Graphics PIC32CM LE LS Family Applications Package",
+    "content": "# ![MPLAB® Harmony Graphics Suite](/gfx_apps_pic32cm_le_ls/docs/images/mhgs.png) MPLAB® Harmony 3 Graphics application examples for PIC32CM LE LS MCU Family MPLAB® Harmony Graphics Suite is an extension of the MPLAB® ecosystem for creating embedded graphics firmware solutions for Microchip 32-bit SAM and PIC® microcontroller and microprocessor devices. Refer to the following links for more information. - [Microchip 32-bit MCUs](https://www.microchip.com/design-centers/32-bit) - [Microchip 32-bit MPUs](https://www.microchip.com/design-centers/32-bit-mpus) - [Microchip MPLAB® X IDE](https://www.microchip.com/mplab/mplab-x-ide) - [Microchip MPLAB® Harmony](https://www.microchip.com/mplab/mplab-harmony) - [Microchip MPLAB® Harmony Pages](https://microchip-mplab-harmony.github.io/) - [MPLAB® Discover](https://mplab-discover.microchip.com/v1/itemtype/com.microchip.ide.project?s0=Legato) This repository contains the MPLAB® Harmony 3 Graphics application examples for SAM D5x/E5x Family. Graphics applications are standalone applications which demonstrate of some of the capabilities of MPLAB® Harmony Graphics Suite. Refer to the following links for release notes, home page, training materials, framework and application help. For more information on the tools, libraries and basic development with the MPLAB® Harmony Graphics Suite, please see the gfx repo also on github. - [Release Notes](https://microchip-mplab-harmony.github.io/gfx_apps_sam_d5x_e5x/release_notes.html) - [MPLAB® Harmony License](https://microchip-mplab-harmony.github.io/gfx/mplab_harmony_license.html) - [MPLAB® Harmony 3 Graphics User Guides Wiki](https://github.com/mchpgfx/legato.docs/wiki) - [MPLAB® Harmony 3 Graphics API Help](https://mchpgfx.github.io/legato.docs/html/index.html) - [MPLAB® Harmony 3 Graphics Applications](https://microchip-mplab-harmony.github.io/gfx/apps/readme.html) - [MPLAB® Harmony 3 Graphics Videos](https://www.youtube.com/channel/UCwGbrIuty-pHCyjuVRAyP5Q) # Contents Summary | Folder | Description |------------|----------------------------------------------| apps | Example Graphics applications | docs | Contains documentation in html format | Documentation is available for offline viewing. It can be used only after cloning this repository onto a local machine. For online viewing, please use [github pages](https://microchip-mplab-harmony.github.io/gfx_apps_pic32cm_le_ls/) of this repository. ## Graphics application examples (Legato) The following applications are provided to demonstrate a subset of the capabilities of Harmony Graphics Suite. | Category | Item | Description | Release Type | --- | --- | ---- |---- | apps | [legato_quickstart](/gfx_apps_pic32cm_le_ls/apps/legato_quickstart/readme.html) | Legato UI library quickstart example | ![app-beta](https://img.shields.io/badge/application-production-green?style=plastic) | apps | [legato_oled_showcase](/gfx_apps_pic32cm_le_ls/apps/legato_oled_showcase/readme.html) | Legato monochrome UI showcase demo with OLED display | ![app-beta](https://img.shields.io/badge/application-production-green?style=plastic) | ____ [![License](https://img.shields.io/badge/license-Harmony%20license-orange.svg)](https://github.com/Microchip-MPLAB-Harmony/gfx_apps_pic32cm_le_ls/blob/master/mplab_harmony_license.md) [![Latest release](https://img.shields.io/github/release/Microchip-MPLAB-Harmony/gfx_apps_pic32cm_le_ls.svg)](https://github.com/Microchip-MPLAB-Harmony/gfx_apps_pic32cm_le_ls/tree/v3.0.0) [![Latest release date](https://img.shields.io/github/release-date/Microchip-MPLAB-Harmony/gfx_apps_pic32cm_le_ls.svg)](https://github.com/Microchip-MPLAB-Harmony/gfx/tree/v3.12.0) [![Commit activity](https://img.shields.io/github/commit-activity/y/Microchip-MPLAB-Harmony/gfx_apps_pic32cm_le_ls.svg)](https://github.com/Microchip-MPLAB-Harmony/gfx_apps_pic32cm_le_ls/graphs/commit-activity) [![Contributors](https://img.shields.io/github/contributors-anon/Microchip-MPLAB-Harmony/gfx_apps_pic32cm_le_ls.svg)]() ____ [![Follow us on Youtube](https://img.shields.io/badge/Youtube-Follow%20us%20on%20Youtube-red.svg)](https://www.youtube.com/user/MicrochipTechnology) [![Follow us on LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20us%20on%20LinkedIn-blue.svg)](https://www.linkedin.com/company/microchip-technology) [![Follow us on Facebook](https://img.shields.io/badge/Facebook-Follow%20us%20on%20Facebook-blue.svg)](https://www.facebook.com/microchiptechnology/) [![Follow us on Twitter](https://img.shields.io/twitter/follow/MicrochipTech.svg?style=social)](https://twitter.com/MicrochipTech) [![](https://img.shields.io/github/stars/Microchip-MPLAB-Harmony/gfx.svg?style=social)]() [![](https://img.shields.io/github/watchers/Microchip-MPLAB-Harmony/gfx.svg?style=social)]() ",
+    "url": "http://localhost:4000/gfx_apps_pic32cm_le_ls/",
+    "relUrl": "/"
+  }
+}
