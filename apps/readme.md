@@ -11,7 +11,7 @@ market:
 
 # Example Applications
 
-The following applications are provided to demonstrate both basic and advanced Graphics capabilities of the PIC32CZ CA Family.
+The following applications are provided to demonstrate both basic and advanced Graphics capabilities of the PIC32CM LE LS Family.
 
 ## Legato Library Examples 
 
